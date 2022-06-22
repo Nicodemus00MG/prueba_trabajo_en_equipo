@@ -1,6 +1,13 @@
-
-.caja2{
-    width: 100px;
-    height: 100px;
-    background-color: yellow;
+*{
+    padding: 0;
+    margin: 0;
 }
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: red;
+}
+
